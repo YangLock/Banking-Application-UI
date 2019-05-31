@@ -1,0 +1,176 @@
+#icon{
+  margin-left: 40px;
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+  vertical-align: initial;
+}
+
+.slogan{
+  display: inline-block;
+  margin-left: 3px;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color:#808080;
+}
+
+.firstLine{
+  border-bottom: thin solid #E0E0E0;
+}
+
+#title{
+  margin-left: 40px;
+  margin-top: 50px;
+}
+
+.demo{
+  margin-left: 40px;
+  margin-top: 140px;
+}
+
+.demo1{
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #808080;
+}
+
+.demo2{
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #808080;
+}
+
+.demo3{
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #808080;
+}
+
+.demo4{
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #808080;
+}
+
+#icon1{
+  float: right;
+  height: 500px;
+  width: 600px;
+  margin-right: 200px;
+}
+
+.picture{
+  margin-left: 40px;
+  margin-top: 170px;
+}
+
+.picture1,.picture2,.picture3,.picture4,.picture5{
+  display: inline-block;
+  width: 20%;
+
+}
+
+.tag{
+  color: #808080;
+  font-size: 22px;
+  vertical-align: middle;
+  line-height: 50px;
+}
+
+.btn-group{
+  margin-left: 40px;
+  margin-top: 15px;
+}
+
+#create{
+  float: right;
+  margin-right: 40px;
+  margin-top: 10px;
+}
+
+#customer{
+  float: right;
+  margin-right: 40px;
+  margin-top: 10px;
+}
+
+.my-hidden{
+  visibility: hidden;
+}
+
+#logout{
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+}
+
+#my-picture{
+  background-color: white;
+  color: black;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+#my-picture:hover{
+  background-color: #e7e7e7;
+}
+
+#log-in{
+  margin-left: 40px;
+  margin-top: 40px;
+  width: 100px;
+}
+
+#register{
+  margin-left: 40px;
+  margin-top: 40px;
+  width: 100px;
+}
+
+#input-password{
+  height: 34px;
+  width: 500px;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+#input-password1{
+  height: 34px;
+  width: 500px;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+#register-input-id{
+  height: 34px;
+  width: 500px;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+#register-input-password{
+  height: 34px;
+  width: 500px;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+#input-id{
+  height: 34px;
+  width: 500px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.input-group-addon, .input-group-btn {
+  width: 28%;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+#my-info1{
+  width: 500px;
+  margin-left: 40px;
+  margin-top: 20px;
+  height: 60px;
+}
